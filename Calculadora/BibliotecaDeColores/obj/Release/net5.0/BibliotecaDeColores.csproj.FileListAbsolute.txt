@@ -1,0 +1,60 @@
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.deps.json
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\ref\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\ref\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.deps.json
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\ref\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\ref\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.deps.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\ref\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\ref\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.deps.json
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\ref\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\ref\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\calcu\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.deps.json
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\ref\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\bin\Release\net5.0\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\ref\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\BibliotecaDeColores\obj\Release\net5.0\BibliotecaDeColores.pdb

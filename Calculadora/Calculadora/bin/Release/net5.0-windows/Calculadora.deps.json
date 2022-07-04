@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calculadora/1.0.0": {
+        "dependencies": {
+          "BibliotecaDeCalculadora": "1.0.0",
+          "BibliotecaDeColores": "1.0.0"
+        },
+        "runtime": {
+          "Calculadora.dll": {}
+        }
+      },
+      "BibliotecaDeCalculadora/1.0.0": {
+        "runtime": {
+          "BibliotecaDeCalculadora.dll": {}
+        }
+      },
+      "BibliotecaDeColores/1.0.0": {
+        "runtime": {
+          "BibliotecaDeColores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDeCalculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDeColores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

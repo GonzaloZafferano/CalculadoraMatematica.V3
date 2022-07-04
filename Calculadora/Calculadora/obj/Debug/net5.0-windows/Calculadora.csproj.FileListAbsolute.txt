@@ -1,0 +1,190 @@
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Calculadora.resources
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.dll
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.pdb
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\MI CA\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Calculadora.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (2)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Calculadora.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (5)\CalculadoraMatematica.V1\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Calculadora.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.dll
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.pdb
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Calculadora.resources
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\funcionndo\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Calculadora.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (3)\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Calculadora.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.exe
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.deps.json
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.json
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.dll
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.dll
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeCalculadora.pdb
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\bin\Debug\net5.0-windows\BibliotecaDeColores.pdb
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Calculadora.resources
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.dll
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
+C:\Users\GONZALO\Desktop\33\CalculadoraMatematica.V2\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
