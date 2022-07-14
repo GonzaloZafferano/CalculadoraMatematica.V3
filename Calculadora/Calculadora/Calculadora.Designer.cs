@@ -76,9 +76,10 @@ namespace Calculadora
             this.btnSiete.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSiete.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnSiete.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnSiete.Location = new System.Drawing.Point(11, 315);
+            this.btnSiete.Location = new System.Drawing.Point(10, 236);
+            this.btnSiete.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnSiete.Name = "btnSiete";
-            this.btnSiete.Size = new System.Drawing.Size(120, 69);
+            this.btnSiete.Size = new System.Drawing.Size(105, 52);
             this.btnSiete.TabIndex = 7;
             this.btnSiete.TabStop = false;
             this.btnSiete.Text = "7";
@@ -94,9 +95,10 @@ namespace Calculadora
             this.btnOcho.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOcho.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnOcho.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnOcho.Location = new System.Drawing.Point(138, 315);
+            this.btnOcho.Location = new System.Drawing.Point(121, 236);
+            this.btnOcho.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnOcho.Name = "btnOcho";
-            this.btnOcho.Size = new System.Drawing.Size(120, 69);
+            this.btnOcho.Size = new System.Drawing.Size(105, 52);
             this.btnOcho.TabIndex = 8;
             this.btnOcho.TabStop = false;
             this.btnOcho.Text = "8";
@@ -112,9 +114,10 @@ namespace Calculadora
             this.btnNueve.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNueve.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnNueve.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnNueve.Location = new System.Drawing.Point(264, 315);
+            this.btnNueve.Location = new System.Drawing.Point(231, 236);
+            this.btnNueve.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnNueve.Name = "btnNueve";
-            this.btnNueve.Size = new System.Drawing.Size(120, 69);
+            this.btnNueve.Size = new System.Drawing.Size(105, 52);
             this.btnNueve.TabIndex = 9;
             this.btnNueve.TabStop = false;
             this.btnNueve.Text = "9";
@@ -130,9 +133,10 @@ namespace Calculadora
             this.btnSeis.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSeis.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnSeis.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnSeis.Location = new System.Drawing.Point(264, 389);
+            this.btnSeis.Location = new System.Drawing.Point(231, 292);
+            this.btnSeis.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnSeis.Name = "btnSeis";
-            this.btnSeis.Size = new System.Drawing.Size(120, 69);
+            this.btnSeis.Size = new System.Drawing.Size(105, 52);
             this.btnSeis.TabIndex = 6;
             this.btnSeis.TabStop = false;
             this.btnSeis.Text = "6";
@@ -148,9 +152,10 @@ namespace Calculadora
             this.btnCinco.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCinco.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnCinco.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnCinco.Location = new System.Drawing.Point(138, 392);
+            this.btnCinco.Location = new System.Drawing.Point(121, 294);
+            this.btnCinco.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCinco.Name = "btnCinco";
-            this.btnCinco.Size = new System.Drawing.Size(120, 69);
+            this.btnCinco.Size = new System.Drawing.Size(105, 52);
             this.btnCinco.TabIndex = 5;
             this.btnCinco.TabStop = false;
             this.btnCinco.Text = "5";
@@ -166,9 +171,10 @@ namespace Calculadora
             this.btnCuatro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCuatro.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnCuatro.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnCuatro.Location = new System.Drawing.Point(11, 391);
+            this.btnCuatro.Location = new System.Drawing.Point(10, 293);
+            this.btnCuatro.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCuatro.Name = "btnCuatro";
-            this.btnCuatro.Size = new System.Drawing.Size(120, 69);
+            this.btnCuatro.Size = new System.Drawing.Size(105, 52);
             this.btnCuatro.TabIndex = 4;
             this.btnCuatro.TabStop = false;
             this.btnCuatro.Text = "4";
@@ -184,9 +190,10 @@ namespace Calculadora
             this.btnTres.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTres.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnTres.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnTres.Location = new System.Drawing.Point(264, 467);
+            this.btnTres.Location = new System.Drawing.Point(231, 350);
+            this.btnTres.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnTres.Name = "btnTres";
-            this.btnTres.Size = new System.Drawing.Size(120, 69);
+            this.btnTres.Size = new System.Drawing.Size(105, 52);
             this.btnTres.TabIndex = 3;
             this.btnTres.TabStop = false;
             this.btnTres.Text = "3";
@@ -202,9 +209,10 @@ namespace Calculadora
             this.btnDos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDos.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnDos.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnDos.Location = new System.Drawing.Point(138, 468);
+            this.btnDos.Location = new System.Drawing.Point(121, 351);
+            this.btnDos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnDos.Name = "btnDos";
-            this.btnDos.Size = new System.Drawing.Size(120, 69);
+            this.btnDos.Size = new System.Drawing.Size(105, 52);
             this.btnDos.TabIndex = 2;
             this.btnDos.TabStop = false;
             this.btnDos.Text = "2";
@@ -220,9 +228,10 @@ namespace Calculadora
             this.btnUno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnUno.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnUno.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnUno.Location = new System.Drawing.Point(11, 467);
+            this.btnUno.Location = new System.Drawing.Point(10, 350);
+            this.btnUno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnUno.Name = "btnUno";
-            this.btnUno.Size = new System.Drawing.Size(120, 69);
+            this.btnUno.Size = new System.Drawing.Size(105, 52);
             this.btnUno.TabIndex = 1;
             this.btnUno.TabStop = false;
             this.btnUno.Text = "1";
@@ -238,9 +247,10 @@ namespace Calculadora
             this.btnPunto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPunto.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnPunto.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnPunto.Location = new System.Drawing.Point(264, 543);
+            this.btnPunto.Location = new System.Drawing.Point(231, 407);
+            this.btnPunto.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnPunto.Name = "btnPunto";
-            this.btnPunto.Size = new System.Drawing.Size(120, 69);
+            this.btnPunto.Size = new System.Drawing.Size(105, 52);
             this.btnPunto.TabIndex = 10;
             this.btnPunto.TabStop = false;
             this.btnPunto.Text = ",";
@@ -256,9 +266,10 @@ namespace Calculadora
             this.btnCero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCero.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnCero.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnCero.Location = new System.Drawing.Point(138, 544);
+            this.btnCero.Location = new System.Drawing.Point(121, 408);
+            this.btnCero.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCero.Name = "btnCero";
-            this.btnCero.Size = new System.Drawing.Size(120, 69);
+            this.btnCero.Size = new System.Drawing.Size(105, 52);
             this.btnCero.TabIndex = 0;
             this.btnCero.TabStop = false;
             this.btnCero.Text = "0";
@@ -274,9 +285,10 @@ namespace Calculadora
             this.btnLimpiar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLimpiar.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnLimpiar.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnLimpiar.Location = new System.Drawing.Point(11, 544);
+            this.btnLimpiar.Location = new System.Drawing.Point(10, 408);
+            this.btnLimpiar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(120, 69);
+            this.btnLimpiar.Size = new System.Drawing.Size(105, 52);
             this.btnLimpiar.TabIndex = 11;
             this.btnLimpiar.TabStop = false;
             this.btnLimpiar.Text = "Borrar";
@@ -292,9 +304,10 @@ namespace Calculadora
             this.btnIgual.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIgual.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnIgual.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnIgual.Location = new System.Drawing.Point(390, 544);
+            this.btnIgual.Location = new System.Drawing.Point(341, 408);
+            this.btnIgual.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnIgual.Name = "btnIgual";
-            this.btnIgual.Size = new System.Drawing.Size(120, 69);
+            this.btnIgual.Size = new System.Drawing.Size(105, 52);
             this.btnIgual.TabIndex = 16;
             this.btnIgual.TabStop = false;
             this.btnIgual.Text = "=";
@@ -310,9 +323,10 @@ namespace Calculadora
             this.btnSumar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSumar.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnSumar.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnSumar.Location = new System.Drawing.Point(390, 468);
+            this.btnSumar.Location = new System.Drawing.Point(341, 351);
+            this.btnSumar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnSumar.Name = "btnSumar";
-            this.btnSumar.Size = new System.Drawing.Size(120, 69);
+            this.btnSumar.Size = new System.Drawing.Size(105, 52);
             this.btnSumar.TabIndex = 15;
             this.btnSumar.TabStop = false;
             this.btnSumar.Text = "+";
@@ -328,9 +342,10 @@ namespace Calculadora
             this.btnRestar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRestar.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnRestar.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnRestar.Location = new System.Drawing.Point(390, 392);
+            this.btnRestar.Location = new System.Drawing.Point(341, 294);
+            this.btnRestar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnRestar.Name = "btnRestar";
-            this.btnRestar.Size = new System.Drawing.Size(120, 69);
+            this.btnRestar.Size = new System.Drawing.Size(105, 52);
             this.btnRestar.TabIndex = 14;
             this.btnRestar.TabStop = false;
             this.btnRestar.Text = "-";
@@ -346,9 +361,10 @@ namespace Calculadora
             this.btnMultiplicar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMultiplicar.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnMultiplicar.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnMultiplicar.Location = new System.Drawing.Point(390, 315);
+            this.btnMultiplicar.Location = new System.Drawing.Point(341, 236);
+            this.btnMultiplicar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnMultiplicar.Name = "btnMultiplicar";
-            this.btnMultiplicar.Size = new System.Drawing.Size(120, 69);
+            this.btnMultiplicar.Size = new System.Drawing.Size(105, 52);
             this.btnMultiplicar.TabIndex = 13;
             this.btnMultiplicar.TabStop = false;
             this.btnMultiplicar.Text = "*";
@@ -364,9 +380,10 @@ namespace Calculadora
             this.btnDividir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDividir.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnDividir.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnDividir.Location = new System.Drawing.Point(390, 237);
+            this.btnDividir.Location = new System.Drawing.Point(341, 178);
+            this.btnDividir.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnDividir.Name = "btnDividir";
-            this.btnDividir.Size = new System.Drawing.Size(120, 69);
+            this.btnDividir.Size = new System.Drawing.Size(105, 52);
             this.btnDividir.TabIndex = 12;
             this.btnDividir.TabStop = false;
             this.btnDividir.Text = "/";
@@ -382,9 +399,10 @@ namespace Calculadora
             this.btnConvertirABinario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnConvertirABinario.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnConvertirABinario.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnConvertirABinario.Location = new System.Drawing.Point(138, 163);
+            this.btnConvertirABinario.Location = new System.Drawing.Point(121, 122);
+            this.btnConvertirABinario.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnConvertirABinario.Name = "btnConvertirABinario";
-            this.btnConvertirABinario.Size = new System.Drawing.Size(120, 69);
+            this.btnConvertirABinario.Size = new System.Drawing.Size(105, 52);
             this.btnConvertirABinario.TabIndex = 21;
             this.btnConvertirABinario.TabStop = false;
             this.btnConvertirABinario.Text = "Convertir a Binario (b)";
@@ -400,9 +418,10 @@ namespace Calculadora
             this.btnExponente.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnExponente.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnExponente.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnExponente.Location = new System.Drawing.Point(138, 237);
+            this.btnExponente.Location = new System.Drawing.Point(121, 178);
+            this.btnExponente.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnExponente.Name = "btnExponente";
-            this.btnExponente.Size = new System.Drawing.Size(120, 69);
+            this.btnExponente.Size = new System.Drawing.Size(105, 52);
             this.btnExponente.TabIndex = 18;
             this.btnExponente.TabStop = false;
             this.btnExponente.Text = "Exp.";
@@ -418,9 +437,10 @@ namespace Calculadora
             this.btnConvertirADecimal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnConvertirADecimal.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnConvertirADecimal.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnConvertirADecimal.Location = new System.Drawing.Point(11, 163);
+            this.btnConvertirADecimal.Location = new System.Drawing.Point(10, 122);
+            this.btnConvertirADecimal.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnConvertirADecimal.Name = "btnConvertirADecimal";
-            this.btnConvertirADecimal.Size = new System.Drawing.Size(120, 69);
+            this.btnConvertirADecimal.Size = new System.Drawing.Size(105, 52);
             this.btnConvertirADecimal.TabIndex = 20;
             this.btnConvertirADecimal.TabStop = false;
             this.btnConvertirADecimal.Text = "Convertir a Decimal (d)";
@@ -436,9 +456,10 @@ namespace Calculadora
             this.btnRaiz.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRaiz.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnRaiz.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnRaiz.Location = new System.Drawing.Point(11, 237);
+            this.btnRaiz.Location = new System.Drawing.Point(10, 178);
+            this.btnRaiz.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnRaiz.Name = "btnRaiz";
-            this.btnRaiz.Size = new System.Drawing.Size(120, 69);
+            this.btnRaiz.Size = new System.Drawing.Size(105, 52);
             this.btnRaiz.TabIndex = 17;
             this.btnRaiz.TabStop = false;
             this.btnRaiz.Text = "Raíz";
@@ -454,9 +475,10 @@ namespace Calculadora
             this.btnBorrarUnDigito.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBorrarUnDigito.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnBorrarUnDigito.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnBorrarUnDigito.Location = new System.Drawing.Point(264, 237);
+            this.btnBorrarUnDigito.Location = new System.Drawing.Point(231, 178);
+            this.btnBorrarUnDigito.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBorrarUnDigito.Name = "btnBorrarUnDigito";
-            this.btnBorrarUnDigito.Size = new System.Drawing.Size(120, 69);
+            this.btnBorrarUnDigito.Size = new System.Drawing.Size(105, 52);
             this.btnBorrarUnDigito.TabIndex = 19;
             this.btnBorrarUnDigito.TabStop = false;
             this.btnBorrarUnDigito.Text = "Del <-";
@@ -468,10 +490,10 @@ namespace Calculadora
             this.lblResultado.BackColor = System.Drawing.Color.OliveDrab;
             this.lblResultado.Font = new System.Drawing.Font("Consolas", 22F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblResultado.ForeColor = System.Drawing.Color.DarkGreen;
-            this.lblResultado.Location = new System.Drawing.Point(11, 87);
+            this.lblResultado.Location = new System.Drawing.Point(10, 65);
             this.lblResultado.Margin = new System.Windows.Forms.Padding(0);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(498, 72);
+            this.lblResultado.Size = new System.Drawing.Size(436, 54);
             this.lblResultado.TabIndex = 23;
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.lblResultado.TextChanged += new System.EventHandler(this.lblResultado_TextChanged);
@@ -481,9 +503,9 @@ namespace Calculadora
             this.lblOperacion.BackColor = System.Drawing.Color.OliveDrab;
             this.lblOperacion.Font = new System.Drawing.Font("Consolas", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblOperacion.ForeColor = System.Drawing.Color.DarkGreen;
-            this.lblOperacion.Location = new System.Drawing.Point(11, 43);
+            this.lblOperacion.Location = new System.Drawing.Point(10, 32);
             this.lblOperacion.Name = "lblOperacion";
-            this.lblOperacion.Size = new System.Drawing.Size(498, 45);
+            this.lblOperacion.Size = new System.Drawing.Size(436, 34);
             this.lblOperacion.TabIndex = 24;
             this.lblOperacion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.lblOperacion.TextChanged += new System.EventHandler(this.lblOperacion_TextChanged);
@@ -497,9 +519,10 @@ namespace Calculadora
             this.btnNegativo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNegativo.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnNegativo.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnNegativo.Location = new System.Drawing.Point(390, 163);
+            this.btnNegativo.Location = new System.Drawing.Point(341, 122);
+            this.btnNegativo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnNegativo.Name = "btnNegativo";
-            this.btnNegativo.Size = new System.Drawing.Size(119, 69);
+            this.btnNegativo.Size = new System.Drawing.Size(104, 52);
             this.btnNegativo.TabIndex = 24;
             this.btnNegativo.TabStop = false;
             this.btnNegativo.Text = "+/-";
@@ -515,9 +538,10 @@ namespace Calculadora
             this.btnFactorial.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFactorial.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnFactorial.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnFactorial.Location = new System.Drawing.Point(264, 163);
+            this.btnFactorial.Location = new System.Drawing.Point(231, 122);
+            this.btnFactorial.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnFactorial.Name = "btnFactorial";
-            this.btnFactorial.Size = new System.Drawing.Size(120, 69);
+            this.btnFactorial.Size = new System.Drawing.Size(105, 52);
             this.btnFactorial.TabIndex = 23;
             this.btnFactorial.TabStop = false;
             this.btnFactorial.Text = "!";
@@ -532,10 +556,11 @@ namespace Calculadora
             this.lstOperaciones.ForeColor = System.Drawing.Color.DarkGreen;
             this.lstOperaciones.FormattingEnabled = true;
             this.lstOperaciones.HorizontalScrollbar = true;
-            this.lstOperaciones.ItemHeight = 24;
-            this.lstOperaciones.Location = new System.Drawing.Point(528, 43);
+            this.lstOperaciones.ItemHeight = 19;
+            this.lstOperaciones.Location = new System.Drawing.Point(462, 32);
+            this.lstOperaciones.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.lstOperaciones.Name = "lstOperaciones";
-            this.lstOperaciones.Size = new System.Drawing.Size(405, 480);
+            this.lstOperaciones.Size = new System.Drawing.Size(354, 342);
             this.lstOperaciones.TabIndex = 26;
             this.lstOperaciones.TabStop = false;
             this.lstOperaciones.Visible = false;
@@ -549,9 +574,10 @@ namespace Calculadora
             this.btnLimpiarHistorial.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLimpiarHistorial.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnLimpiarHistorial.ForeColor = System.Drawing.Color.DarkGreen;
-            this.btnLimpiarHistorial.Location = new System.Drawing.Point(813, 544);
+            this.btnLimpiarHistorial.Location = new System.Drawing.Point(711, 408);
+            this.btnLimpiarHistorial.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLimpiarHistorial.Name = "btnLimpiarHistorial";
-            this.btnLimpiarHistorial.Size = new System.Drawing.Size(120, 69);
+            this.btnLimpiarHistorial.Size = new System.Drawing.Size(105, 52);
             this.btnLimpiarHistorial.TabIndex = 25;
             this.btnLimpiarHistorial.TabStop = false;
             this.btnLimpiarHistorial.Text = "Limpiar Historial";
@@ -568,8 +594,8 @@ namespace Calculadora
             this.tsBtnColores});
             this.tsMenu.Location = new System.Drawing.Point(0, 0);
             this.tsMenu.Name = "tsMenu";
-            this.tsMenu.Padding = new System.Windows.Forms.Padding(6, 3, 0, 3);
-            this.tsMenu.Size = new System.Drawing.Size(522, 39);
+            this.tsMenu.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
+            this.tsMenu.Size = new System.Drawing.Size(457, 30);
             this.tsMenu.TabIndex = 0;
             this.tsMenu.Text = "menuStrip1";
             // 
@@ -580,7 +606,7 @@ namespace Calculadora
             this.tsBtnHistorial.ForeColor = System.Drawing.Color.DarkGreen;
             this.tsBtnHistorial.MergeIndex = 0;
             this.tsBtnHistorial.Name = "tsBtnHistorial";
-            this.tsBtnHistorial.Size = new System.Drawing.Size(158, 33);
+            this.tsBtnHistorial.Size = new System.Drawing.Size(125, 26);
             this.tsBtnHistorial.Text = "Historial >>";
             this.tsBtnHistorial.Click += new System.EventHandler(this.tsBtnHistorial_Click);
             // 
@@ -595,7 +621,7 @@ namespace Calculadora
             this.tsBtnColores.ForeColor = System.Drawing.Color.DarkGreen;
             this.tsBtnColores.MergeIndex = 1;
             this.tsBtnColores.Name = "tsBtnColores";
-            this.tsBtnColores.Size = new System.Drawing.Size(116, 33);
+            this.tsBtnColores.Size = new System.Drawing.Size(95, 26);
             this.tsBtnColores.Text = "Colores";
             // 
             // tsBtnRosa
@@ -604,7 +630,7 @@ namespace Calculadora
             this.tsBtnRosa.ForeColor = System.Drawing.Color.MediumVioletRed;
             this.tsBtnRosa.MergeIndex = 2;
             this.tsBtnRosa.Name = "tsBtnRosa";
-            this.tsBtnRosa.Size = new System.Drawing.Size(165, 34);
+            this.tsBtnRosa.Size = new System.Drawing.Size(134, 26);
             this.tsBtnRosa.Text = "Rosa";
             this.tsBtnRosa.Click += new System.EventHandler(this.tsBtnTema_Click);
             // 
@@ -614,7 +640,7 @@ namespace Calculadora
             this.tsBtnVerde.ForeColor = System.Drawing.Color.DarkGreen;
             this.tsBtnVerde.MergeIndex = 3;
             this.tsBtnVerde.Name = "tsBtnVerde";
-            this.tsBtnVerde.Size = new System.Drawing.Size(165, 34);
+            this.tsBtnVerde.Size = new System.Drawing.Size(134, 26);
             this.tsBtnVerde.Text = "Verde";
             this.tsBtnVerde.Click += new System.EventHandler(this.tsBtnTema_Click);
             // 
@@ -624,16 +650,16 @@ namespace Calculadora
             this.tsBtnAzul.ForeColor = System.Drawing.Color.DarkBlue;
             this.tsBtnAzul.MergeIndex = 4;
             this.tsBtnAzul.Name = "tsBtnAzul";
-            this.tsBtnAzul.Size = new System.Drawing.Size(165, 34);
+            this.tsBtnAzul.Size = new System.Drawing.Size(134, 26);
             this.tsBtnAzul.Text = "Azul";
             this.tsBtnAzul.Click += new System.EventHandler(this.tsBtnTema_Click);
             // 
             // Calculadora
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.YellowGreen;
-            this.ClientSize = new System.Drawing.Size(522, 635);
+            this.ClientSize = new System.Drawing.Size(457, 476);
             this.Controls.Add(this.btnLimpiarHistorial);
             this.Controls.Add(this.lstOperaciones);
             this.Controls.Add(this.btnFactorial);
@@ -668,8 +694,8 @@ namespace Calculadora
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
             this.MainMenuStrip = this.tsMenu;
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
-            this.MinimizeBox = false;
             this.Name = "Calculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora";
