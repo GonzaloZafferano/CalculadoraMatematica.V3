@@ -17,10 +17,10 @@ namespace Calculadora
     {
         private Operando operandoUno;
         private Operando operandoDos;
-        CancellationTokenSource tokenDeCancelacion;
-        CancellationToken token;
-        Task tarea;
-        Color color;
+        private CancellationTokenSource tokenDeCancelacion;
+        private CancellationToken token;
+        private Task tarea;
+        private Color color;
 
         public Calculadora()
         {
@@ -152,6 +152,7 @@ namespace Calculadora
             Operacion.ErrorMatematico = false;
             ConversionBinarioDecimal.EsNumeroBinario = false;   
             Operacion.SePuedeOperar = false;
+            this.CancelarTask();
         }
 
         /// <summary>
@@ -230,10 +231,11 @@ namespace Calculadora
         /// <param name="e">Objeto que contiene informacion del evento.</param>
         private void btnIgual_Click(object sender, EventArgs e)
         {
-            this.CancelarTask();
 
             if (Operacion.SePuedeOperar)
             {
+                this.CancelarTask();
+                
                 this.Operar();
             }
         }
@@ -264,14 +266,7 @@ namespace Calculadora
 
                 this.LblResultado = Operacion.Operar(this.operandoUno, this.operandoDos).ToString();
 
-                if (Operacion.Operador != Operador.Raíz.ToString())
-                {
-                    this.lstOperaciones.Items.Add($"({this.operandoUno.Numero}) {Operacion.CrearCadenaDeOperador()} ({operandoDos.Numero}) = {this.LblResultado}");
-                }
-                else
-                {
-                    this.lstOperaciones.Items.Add($"({this.operandoDos.Numero}) {Operacion.CrearCadenaDeOperador()} ({operandoUno.Numero}) = {this.LblResultado}");
-                }
+                this.lstOperaciones.Items.Add($"{this.LblOperacion} {this.LblResultado}");
 
                 this.operandoUno = new Operando(this.LblResultado);
                 Operacion.SePuedeOperar = false;
@@ -329,7 +324,7 @@ namespace Calculadora
         {
             if(this.lblOperacion.InvokeRequired)
             {
-                this.lblOperacion.Invoke(new Action(ResaltarLabelOperacion));
+                this.lblOperacion.Invoke(new Action(this.ResaltarLabelOperacion));
             }
             else
             {
@@ -432,7 +427,10 @@ namespace Calculadora
             if (this.tokenDeCancelacion != null)
             {
                 this.tokenDeCancelacion.Cancel();
+
+                Thread.Sleep(260);
                 this.tokenDeCancelacion = null;
+                this.tarea = null;
             }
         }
 
@@ -447,6 +445,7 @@ namespace Calculadora
 
             if ((bool)this.btnConvertirABinario.Tag && !Operacion.ErrorMatematico)
             {
+                this.CancelarTask();
                 this.LblResultadoABinario = ConversionBinarioDecimal.DecimalBinario(this.LblResultado);
                 this.btnConvertirABinario.Tag = false;
                 this.btnConvertirADecimal.Tag = true;
@@ -455,7 +454,7 @@ namespace Calculadora
 
                 this.LblOperacion = $"({resultadoDecimal})d =";
 
-                this.lstOperaciones.Items.Add($"({resultadoDecimal})d = ({this.LblResultado})b");
+                this.lstOperaciones.Items.Add($"{this.LblOperacion} ({this.LblResultado})b");
             }
         }
 
@@ -470,6 +469,7 @@ namespace Calculadora
 
             if ((bool)this.btnConvertirADecimal.Tag && !Operacion.ErrorMatematico)
             {
+                this.CancelarTask();
                 this.LblResultado = ConversionBinarioDecimal.BinarioDecimal(this.LblResultado);
                 this.btnConvertirADecimal.Tag = false;
                 this.btnConvertirABinario.Tag = true;
@@ -477,7 +477,7 @@ namespace Calculadora
 
                 this.LblOperacion = $"({resultadoBinario})b =";
 
-                this.lstOperaciones.Items.Add($"({resultadoBinario})b = ({this.LblResultado})d");
+                this.lstOperaciones.Items.Add($"{this.LblOperacion} ({this.LblResultado})d");
             }
         }
 
@@ -490,9 +490,11 @@ namespace Calculadora
         {
             if(!ConversionBinarioDecimal.EsNumeroBinario && !Operacion.ErrorMatematico)
             {
+                this.CancelarTask();
+
                 string resultado = this.LblResultado;
 
-                this.LblOperacion = $"{resultado}! =";
+                this.LblOperacion = $"({resultado})! =";
 
                 this.LblResultado = Factorial.FactorialDeUnNumero(this.LblResultado).ToString();
 
@@ -500,7 +502,7 @@ namespace Calculadora
 
                 this.btnBorrarUnDigito.Tag = false;
 
-                this.lstOperaciones.Items.Add($"({resultado})! = {this.LblResultado}");
+                this.lstOperaciones.Items.Add($"{this.LblOperacion} {this.LblResultado}");
             }
         }         
 

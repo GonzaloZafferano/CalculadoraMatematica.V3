@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\GONZALO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -77,11 +77,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj": {
-              "projectPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj"
+            "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj": {
+              "projectPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj"
             },
-            "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeColores\\BibliotecaDeColores.csproj": {
-              "projectPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeColores\\BibliotecaDeColores.csproj"
+            "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeColores\\BibliotecaDeColores.csproj": {
+              "projectPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeColores\\BibliotecaDeColores.csproj"
             }
           }
         }

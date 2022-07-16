@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj": {}
+    "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj": {
+    "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj",
         "projectName": "BibliotecaDeCalculadora",
-        "projectPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj",
+        "projectPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\BibliotecaDeCalculadora.csproj",
         "packagesPath": "C:\\Users\\GONZALO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta (5)\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\obj\\",
+        "outputPath": "C:\\Users\\GONZALO\\Desktop\\Nueva carpeta\\CalculadoraMatematica.V3\\Calculadora\\BibliotecaDeCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
